@@ -1,7 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 def islower(c):
-    c = input("Enter the letter")
-
     if ord(c) > 96 and ord(c) < 123:
         return True
     else:

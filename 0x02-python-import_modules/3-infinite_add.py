@@ -2,6 +2,7 @@
 if __name__ = "__main__":
 
   import sys
-
-  for arg in sys.argv:
-    
+  i = 0
+  for arg in sys.argv[1:]:
+    i += int(arg)
+  print("{}.format(i)")

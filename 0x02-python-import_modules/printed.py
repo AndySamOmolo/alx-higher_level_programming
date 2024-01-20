@@ -1,0 +1,2 @@
+def omolo():
+  print("#pythoniscool")

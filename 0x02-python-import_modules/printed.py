@@ -1,2 +1,1 @@
-def omolo():
-  print("#pythoniscool")
+print("#pythoniscool")
